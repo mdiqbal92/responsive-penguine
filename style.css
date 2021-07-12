@@ -24,3 +24,10 @@
 .cart-image img{
     width: 100%;
 }
+.button-s{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(180deg, rgb(53, 255, 114), rgb(137, 250, 114));
+    padding: 5px 10px;
+    border-radius: 5px;
+}
